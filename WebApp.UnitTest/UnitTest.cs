@@ -14,7 +14,7 @@ namespace WebApp.UnitTest
         [TestMethod]
         public void OnePlusTwoEqualThreeTest()
         {
-            Assert.IsTrue(true);
+            Assert.IsTrue(false);
         }
     }
 }
